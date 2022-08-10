@@ -1,1 +1,1 @@
-# VEC_Talk_10_Aug_2022
+# Innovation and Entrepreneurship
