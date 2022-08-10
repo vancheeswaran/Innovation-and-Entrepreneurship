@@ -22,7 +22,6 @@ https://hbr.org/2013/05/why-the-lean-start-up-changes-everything
 Startup Funding:
 
 https://www.indeed.com/career-advice/career-development/startup-funding-stages
-
 https://blog.adioma.com/how-funding-works-splitting-equity-infographic/
 https://www.startupindia.gov.in/content/sih/en/funding.html#:~:text=Startup%20Funding,%2C%20office%20spaces%2C%20and%20inventory.
 
