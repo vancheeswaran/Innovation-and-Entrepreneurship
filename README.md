@@ -10,6 +10,7 @@ https://www.gartner.com/en/information-technology/insights/top-technology-trends
 https://www.forbes.com/sites/forbestechcouncil/2022/03/25/six-ai-trends-to-watch-in-2022/?sh=1622a65d2be1
 
 Process [Design Thinking, Lean Startup and Agile]
+
 https://medium.com/xplor8/design-thinking-lean-startup-and-agile-what-is-the-difference-1eed3594b121
 https://mitsloan.mit.edu/ideas-made-to-matter/design-thinking-explained
 https://hbr.org/2018/09/why-design-thinking-works
